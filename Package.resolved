@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GraphQL",
+        "repositoryURL": "https://github.com/ocelotgraphql/graphql-swift",
+        "state": {
+          "branch": "fix/lexing-commas",
+          "revision": "5f16dc41708c2933786f3294d126aca858b98766",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
