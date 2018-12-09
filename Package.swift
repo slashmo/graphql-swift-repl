@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
 	name: "GraphQLLexerRepl",
 	dependencies: [
-		.package(url: "https://github.com/ocelotgraphql/graphql-swift", .branch("fix/lexing-commas"))
+		.package(url: "https://github.com/ocelotgraphql/graphql-swift", .branch("master"))
 	],
 	targets: [
 		.target(

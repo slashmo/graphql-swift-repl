@@ -5,8 +5,8 @@
         "package": "GraphQL",
         "repositoryURL": "https://github.com/ocelotgraphql/graphql-swift",
         "state": {
-          "branch": "fix/lexing-commas",
-          "revision": "5f16dc41708c2933786f3294d126aca858b98766",
+          "branch": "master",
+          "revision": "56cfb74bbd76dfc833266253e35c03ed135504ac",
           "version": null
         }
       }
