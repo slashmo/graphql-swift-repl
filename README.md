@@ -4,6 +4,12 @@ This is a REPL for playing around with the GraphQL Lexer I've written for the [`
 
 ## Installation
 
+Start by cloning this repository:
+
+``` sh
+git clone git@github.com:slashmo/graphql-swift-repl.git
+```
+
 ### macOS (without Docker)
 
 If you already have **Swift 4.2** installed on your Mac it's as easy as executing `swift run` inside this project's root folder.
@@ -33,7 +39,7 @@ query {
 ```
 
 ``` graphql
-# this is an invalid query
+# invalid query
 query {
   repository(owner: "apple", name: "swift) {
     stargazers {
